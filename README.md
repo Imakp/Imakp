@@ -5,13 +5,13 @@
 # `Hello World! I'm Ankit 👋`
 
 <div align="left">
-  <a href="https://github.com/Imakp" target="_blank" style="margin-right: 10px;">
+  <a href="https://github.com/Imakp" target="_blank" style="margin-right: 20px;">
     <img src="public/github.svg" width="40" alt="GitHub"/>
   </a>
-  <a href="https://imakp.vercel.app" target="_blank" style="margin-right: 10px;">
+  <a href="https://imakp.vercel.app" target="_blank" style="margin-right: 20px;">
     <img src="public/portfolio.svg" width="40" alt="Portfolio"/>
   </a>
-  <a href="mailto:theankitkumarpandit@gmail.com" target="_blank" style="margin-right: 10px;">
+  <a href="mailto:theankitkumarpandit@gmail.com" target="_blank">
     <img src="public/email.svg" width="40" alt="Email" title="theankitkumarpandit@gmail.com" />
   </a>
 </div>
@@ -92,7 +92,7 @@
       <td>The Time Boxing project is a full-stack web app for efficient task management. Built with Node.js, Express, MongoDB (backend), and React, Vite (frontend), it lets users create, update, delete, and mark tasks as important. Tasks are visualized on a day chart with specific time blocks for better organization.</td>
       <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
       <td>
-        <a href="https://time-boxing-taupe.vercel.app" target="_blank">Live</a> <br/>--------<br/>
+        <a href="https://time-boxing-taupe.vercel.app" target="_blank">Live</a> <br/>-------<br/>
         <a href="https://github.com/Imakp/Time-Boxing.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -102,7 +102,7 @@
       <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
       <td>
         <a href="http://imakp-blog.vercel.app/" target="_blank">Live</a> 
-        <br/>-------<br/>
+        <br/>------<br/>
         <a href="https://github.com/Imakp/blog.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -112,7 +112,7 @@
       <td>Python, Flask, Scikit-learn, TF-IDF</td>
       <td>
         <a href="https://www.linkedin.com/posts/chiragkumar7_machinelearning-sentimentanalysis-naturallanguageprocessing-ugcPost-7236792491008475138-_J9x?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpZi0YBziHunzRA5Ed5_NTiT_eyrkFyCe0" target="_blank">Demo</a> 
-        <br/>-------<br/>
+        <br/>------<br/>
         <a href="https://github.com/Imakp/sentiment_analysis.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -122,7 +122,7 @@
       <td>Python, Django, Scikit-learn, Pandas</td>
       <td>
         <a href="https://www.linkedin.com/posts/ankitkumarpandit_machinelearning-ai-fintech-activity-7208162779218759680-eJPO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpZi0YBziHunzRA5Ed5_NTiT_eyrkFyCe0" target="_blank">Demo</a> 
-        <br/>-------<br/>
+        <br/>------<br/>
         <a href="https://github.com/Imakp/LoanPrediction.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -132,7 +132,7 @@
       <td>Next.js, Tailwind CSS</td>
       <td>
         <a href="https://human-readable-clock.vercel.app" target="_blank">Live</a> 
-        <br/>-------<br/>
+        <br/>------<br/>
         <a href="https://github.com/Imakp/human-readable-clock.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -142,7 +142,7 @@
       <td>Html, Css, JavaScript</td>
       <td>
         <a href="https://imakp.github.io/josephus_problem/" target="_blank">Live</a> 
-        <br/>-------<br/>
+        <br/>------<br/>
         <a href="https://github.com/Imakp/josephus_problem.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -158,19 +158,19 @@
 ## `>> Let's Connect`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ankitkumarpandit" target="_blank" style="margin-right: 10px;" >
+  <a href="https://www.linkedin.com/in/ankitkumarpandit" target="_blank" style="margin-right: 20px;" >
     <img src="public/linkedin.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://x.com/_ankitkrpandit_" target="_blank" style="margin-right: 10px;">
+  <a href="https://x.com/_ankitkrpandit_" target="_blank" style="margin-right: 20px;">
     <img src="public/x.svg" alt="X (Twitter)" width="40" />
   </a>
-  <a href="https://imakp.vercel.app" target="_blank" style="margin-right: 10px;">
+  <a href="https://imakp.vercel.app" target="_blank" style="margin-right: 20px;">
     <img src="public/portfolio.svg" alt="Portfolio" width="40" />
   </a>
-  <a href="mailto:theankitkumarpandit@gmail.com" target="_blank" style="margin-right: 10px;">
+  <a href="mailto:theankitkumarpandit@gmail.com" target="_blank" style="margin-right: 20px;">
     <img src="public/email.svg" alt="Email"  width="40" />
   </a>
-  <a href="https://github.com/Imakp" target="_blank" style="margin-right: 10px;">
+  <a href="https://github.com/Imakp" target="_blank">
     <img src="public/github.svg" alt="GitHub" width="40" />
   </a>
 </div>
