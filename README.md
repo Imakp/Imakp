@@ -5,13 +5,13 @@
 # `Hello World! I'm Ankit 👋`
 
 <div align="left"">  
-  <a href="https://imakp.vercel.app">
+  <a href="https://imakp.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-34rc09?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:theankitkumarpandit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Imakp">
+  <a href="https://github.com/Imakp" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -24,7 +24,7 @@
 - 🌱 **Currently learning:** `Building Smart Contracts on Blockchain and Developing AI Agents using JavaScript/Python.`
 - 💬 **Ask me about:** `Full-stack Dev, Mathematics or my journey as a self-taught developer`
 - 😄 **Pronouns:** `He/Him`
-- ⚡ **Fun fact:** `My commit messages range from "Fixed bug" to "Finally works, don’t touch."` 
+- ⚡ **Fun fact:** `My commit messages range from "Fixed bug" to "Finally works, don’t touch."`
 - 🌍 **Location:** `Building from India, shaping the future one line of code at a time.`
 
 ## `>> Tech Stack`
@@ -158,19 +158,19 @@
 ## `>> Let's Connect`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ankitkumarpandit">
+  <a href="https://www.linkedin.com/in/ankitkumarpandit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/_ankitkrpandit_">
+  <a href="https://x.com/_ankitkrpandit_" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://imakp.vercel.app">
+  <a href="https://imakp.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-34rc09?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:theankitkumarpandit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Imakp">
+  <a href="https://github.com/Imakp" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
