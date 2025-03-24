@@ -102,7 +102,7 @@
       <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
       <td>
         <a href="http://imakp-blog.vercel.app/" target="_blank">Live</a> 
-        <br/>--------<br/>
+        <br/>-------<br/>
         <a href="https://github.com/Imakp/blog.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -112,7 +112,7 @@
       <td>Python, Flask, Scikit-learn, TF-IDF</td>
       <td>
         <a href="https://www.linkedin.com/posts/chiragkumar7_machinelearning-sentimentanalysis-naturallanguageprocessing-ugcPost-7236792491008475138-_J9x?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpZi0YBziHunzRA5Ed5_NTiT_eyrkFyCe0" target="_blank">Demo</a> 
-        <br/>--------<br/>
+        <br/>-------<br/>
         <a href="https://github.com/Imakp/sentiment_analysis.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -122,7 +122,7 @@
       <td>Python, Django, Scikit-learn, Pandas</td>
       <td>
         <a href="https://www.linkedin.com/posts/ankitkumarpandit_machinelearning-ai-fintech-activity-7208162779218759680-eJPO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpZi0YBziHunzRA5Ed5_NTiT_eyrkFyCe0" target="_blank">Demo</a> 
-        <br/>--------<br/>
+        <br/>-------<br/>
         <a href="https://github.com/Imakp/LoanPrediction.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -132,7 +132,7 @@
       <td>Next.js, Tailwind CSS</td>
       <td>
         <a href="https://human-readable-clock.vercel.app" target="_blank">Live</a> 
-        <br/>--------<br/>
+        <br/>-------<br/>
         <a href="https://github.com/Imakp/human-readable-clock.git" target="_blank">GitHub</a>
       </td>
     </tr>
@@ -142,7 +142,7 @@
       <td>Html, Css, JavaScript</td>
       <td>
         <a href="https://imakp.github.io/josephus_problem/" target="_blank">Live</a> 
-        <br/>--------<br/>
+        <br/>-------<br/>
         <a href="https://github.com/Imakp/josephus_problem.git" target="_blank">GitHub</a>
       </td>
     </tr>
