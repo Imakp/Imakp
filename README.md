@@ -4,15 +4,15 @@
 
 # `Hello World! I'm Ankit 👋`
 
-<div align="left">
-  <a href="https://github.com/Imakp" target="_blank" style="margin-right: 20px;">
-    <img src="public/github.svg" width="40" alt="GitHub"/>
+<div align="left"">  
+  <a href="https://imakp.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-34rc09?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://imakp.vercel.app" target="_blank" style="margin-right: 20px;">
-    <img src="public/portfolio.svg" width="40" alt="Portfolio"/>
+  <a href="mailto:theankitkumarpandit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:theankitkumarpandit@gmail.com" target="_blank">
-    <img src="public/email.svg" width="40" alt="Email" title="theankitkumarpandit@gmail.com" />
+  <a href="https://github.com/Imakp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -158,20 +158,20 @@
 ## `>> Let's Connect`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ankitkumarpandit" target="_blank" style="margin-right: 20px;" >
-    <img src="public/linkedin.svg" alt="LinkedIn" width="40" />
+  <a href="https://www.linkedin.com/in/ankitkumarpandit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/_ankitkrpandit_" target="_blank" style="margin-right: 20px;">
-    <img src="public/x.svg" alt="X (Twitter)" width="40" />
+  <a href="https://x.com/_ankitkrpandit_">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://imakp.vercel.app" target="_blank" style="margin-right: 20px;">
-    <img src="public/portfolio.svg" alt="Portfolio" width="40" />
+  <a href="https://imakp.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-34rc09?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:theankitkumarpandit@gmail.com" target="_blank" style="margin-right: 20px;">
-    <img src="public/email.svg" alt="Email"  width="40" />
+  <a href="mailto:theankitkumarpandit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Imakp" target="_blank">
-    <img src="public/github.svg" alt="GitHub" width="40" />
+  <a href="https://github.com/Imakp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
