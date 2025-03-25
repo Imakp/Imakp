@@ -65,7 +65,8 @@
 ## `>> GitHub Overview`
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imakp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0366D6&fire=0366D6&currStreakLabel=0366D6&layout=compact" alt="ankit's github streak" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imakp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0366D6&fire=0366D6&currStreakLabel=0366D6&layout=compact" alt="ankit's github streak" /> -->
+	![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Imakp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0366D6&fire=0366D6&currStreakLabel=0366D6&layout=compact)
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imakp&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff" />
