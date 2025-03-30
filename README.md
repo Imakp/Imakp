@@ -65,14 +65,14 @@
 ## `>> GitHub Overview`
 
 <div align="center">
-	<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Imakp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0366D6&fire=0366D6&currStreakLabel=0366D6&layout=compact" alt="ankit's github streak" /></a>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imakp&theme=flag-india&hide_border=true&layout=compact" alt="ankit's github streak" />
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imakp&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imakp&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=0366D6&text_color=ffffff&rank_icon=percentile&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imakp&theme=flag-india&show_icons=true&hide_border=true&layout=compact&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imakp&theme=flag-india&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&layout=compact" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imakp&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imakp&bg_color=FFFFFF&color=669c35&title_color=138808&line=FF9933&point=3a88fe&area_color=3a88fe&area=true&hide_border=true" width="95%" alt="Activity Graph">
 </div>
 
 ## `>> Projects`
