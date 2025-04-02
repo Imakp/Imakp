@@ -90,7 +90,7 @@
     <tr>
       <td><strong>Finance Tracker</strong></td>
       <td>A full-stack web application designed to help users track their monthly finances, including income and expenses.</td>
-      <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
+      <td>MERN Stack</td>
       <td>
         <a href="https://https://finance-tracker-imakp.vercel.app/" target="_blank">Live</a> <br/>-------<br/>
         <a href="https://github.com/Imakp/Finance_Tracker.git" target="_blank">GitHub</a>
@@ -99,7 +99,7 @@
     <tr>
       <td><strong>Time Boxing</strong></td>
       <td>The Time Boxing project is a full-stack web app for efficient task management. Built with Node.js, Express, MongoDB (backend), and React, Vite (frontend), it lets users create, update, delete, and mark tasks as important. Tasks are visualized on a day chart with specific time blocks for better organization.</td>
-      <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
+      <td>MERN Stack</td>
       <td>
         <a href="https://time-boxing-taupe.vercel.app" target="_blank">Live</a> <br/>-------<br/>
         <a href="https://github.com/Imakp/Time-Boxing.git" target="_blank">GitHub</a>
@@ -108,7 +108,7 @@
     <tr>
       <td><strong>Blog App</strong></td>
       <td>A full-stack web app for reading, writing, and managing blogs. Built with React, Node.js, and MongoDB, it features user authentication, a rich text editor, SEO optimization, dark mode, and an admin panel. Fully responsive and deployed on Vercel, it offers a seamless blogging experience.</td>
-      <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
+      <td>MERN Stack</td>
       <td>
         <a href="http://imakp-blog.vercel.app/" target="_blank">Live</a> 
         <br/>------<br/>
