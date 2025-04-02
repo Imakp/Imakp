@@ -88,6 +88,15 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>Finance Tracker</strong></td>
+      <td>A full-stack web application designed to help users track their monthly finances, including income and expenses.</td>
+      <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
+      <td>
+        <a href="https://https://finance-tracker-imakp.vercel.app/" target="_blank">Live</a> <br/>-------<br/>
+        <a href="https://github.com/Imakp/Finance_Tracker.git" target="_blank">GitHub</a>
+      </td>
+    </tr>
+    <tr>
       <td><strong>Time Boxing</strong></td>
       <td>The Time Boxing project is a full-stack web app for efficient task management. Built with Node.js, Express, MongoDB (backend), and React, Vite (frontend), it lets users create, update, delete, and mark tasks as important. Tasks are visualized on a day chart with specific time blocks for better organization.</td>
       <td>React, Vite, Tailwind CSS, Node, Express, MongoDB</td>
