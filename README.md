@@ -65,7 +65,7 @@
 ## `>> GitHub Overview`
 
 <div align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imakp&theme=flag-india&hide_border=true&layout=compact" alt="ankit's github streak" />
+	<img align="center" src="https://github-streakify.vercel.app?user=Imakp&theme=flag-india&hide_border=true&layout=compact" alt="ankit's github streak" />
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imakp&theme=flag-india&show_icons=true&hide_border=true&layout=compact&langs_count=6" />
