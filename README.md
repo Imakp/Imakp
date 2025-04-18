@@ -67,10 +67,10 @@
 <div align="center">
 	<img align="center" src="https://github-streakify.vercel.app?user=Imakp&theme=flag-india&hide_border=true&layout=compact" alt="ankit's github streak" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imakp&theme=flag-india&show_icons=true&hide_border=true&layout=compact&langs_count=6" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imakp&theme=flag-india&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&layout=compact" />
-</div>
+</div> -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imakp&bg_color=FFFFFF&color=669c35&title_color=138808&line=FF9933&point=3a88fe&area_color=3a88fe&area=true&hide_border=true" width="95%" alt="Activity Graph">
 </div>
